@@ -22,9 +22,27 @@
 
 #ZAD 5
 
-n=int(input())
-for i in range(n-1):
-  k=in = int(input())
+
+# n=int(input("W ile gramy?"))
+
+# suma = n * (n+1) // 2
+
+# for i in range(n-1):
+#   a = int(input())
+#   suma = suma - a
+# print(suma)
+
+# DOD -
+
+suma = 0
+for i in range(10, 100, 2):
+  suma = suma + i
+print(suma)
+  
+
+  
+
+  
   
 
 

@@ -14,19 +14,19 @@
 
 
 
-napis = "KOT"
-szyf = ""
-print(napis[0], napis[1], napis[2])
-
-for i in range(len(napis)):
-  print(napis[i])
-
-
-
+# napis = "KOT"
+# szyf = ""
 # print(napis[0], napis[1], napis[2])
-for i in range(len(napis)):
-  print(napis[i])
-  szyfr = szyfr + chr(ord(napis[i])+3)
-  print(szyfr)
+
+# for i in range(len(napis)):
+#   print(napis[i])
+
+
+
+# # print(napis[0], napis[1], napis[2])
+# for i in range(len(napis)):
+#   print(napis[i])
+#   szyfr = szyfr + chr(ord(napis[i])+3)
+#   print(szyfr)
   
 

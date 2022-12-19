@@ -24,3 +24,9 @@
 
 for i in range(10,99):
   print()
+
+
+
+
+#zad 5
+      
